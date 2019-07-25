@@ -5,6 +5,8 @@ second line
 
 master change to resolve conflict
 
+feature change to resolve conflict
+
 fifth line
 sixth line
 
