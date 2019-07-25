@@ -3,6 +3,7 @@ second line
 3rd line
 4th line
 
+master change to resolve conflict
 
 fifth line
 sixth line
